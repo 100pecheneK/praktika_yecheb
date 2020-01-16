@@ -14,12 +14,8 @@ public class Main_1 {
         try {
             System.out.print("Ваше число: ");
             int num = scanner.nextInt();
-            if (num < 1) {
-                num = 1;
-            }
-            if (num > 9) {
-                num = 9;
-            }
+            if (num < 1) num = 1;
+            if (num > 9) num = 9;
             int row = 0;
             int i = 0;
             do {

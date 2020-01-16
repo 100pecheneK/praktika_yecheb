@@ -36,6 +36,7 @@ public class Main_1 {
             reverseNumber *= 10;
             reverseNumber += number % 10;
             number /= 10;
+            System.out.println(number);
         } while (number != 0);
         return reverseNumber;
     }

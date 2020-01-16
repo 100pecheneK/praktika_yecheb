@@ -32,13 +32,33 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_1">
+  <component name="RunManager" selected="Application.Jenya">
+    <configuration name="Jenya" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jenya" />
+      <module name="individ_tasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task_A.Main" />
       <module name="individ_tasks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Task_A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_C.Main_1" />
+      <module name="individ_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task_C.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,26 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_C.Main_3" />
-      <module name="individ_tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task_C.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jenya" />
+        <item itemvalue="Application.Main_1 (1)" />
         <item itemvalue="Application.Main_1" />
         <item itemvalue="Application.Main_2" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main_2 (1)" />
-        <item itemvalue="Application.Main_3" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +139,7 @@
       <updated>1579068676109</updated>
       <workItem from="1579068679847" duration="9625000" />
       <workItem from="1579082757458" duration="3963000" />
+      <workItem from="1579154663441" duration="8441000" />
     </task>
     <servers />
   </component>
@@ -143,37 +151,41 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="457" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1579068903097" />
-    <state width="1398" height="236" key="GridCell.Tab.0.bottom" timestamp="1579086728580">
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom" timestamp="1579171283322">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579086728580" />
-    <state width="1398" height="236" key="GridCell.Tab.0.center" timestamp="1579086728580">
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579171283322" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center" timestamp="1579171283320">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="236" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579086728580" />
-    <state width="1398" height="236" key="GridCell.Tab.0.left" timestamp="1579086728579">
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579171283320" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left" timestamp="1579171283320">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="236" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579086728579" />
-    <state width="1398" height="236" key="GridCell.Tab.0.right" timestamp="1579086728580">
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579171283320" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right" timestamp="1579171283321">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="236" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579086728580" />
-    <state width="1398" height="274" key="GridCell.Tab.1.bottom" timestamp="1579086728576">
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579171283321" />
+    <state width="1398" height="274" key="GridCell.Tab.1.bottom" timestamp="1579166159345">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="274" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579086728576" />
-    <state width="1398" height="274" key="GridCell.Tab.1.center" timestamp="1579086728575">
+    <state width="1398" height="274" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579166159345" />
+    <state width="1398" height="274" key="GridCell.Tab.1.center" timestamp="1579166159344">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="274" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1579086728575" />
-    <state width="1398" height="274" key="GridCell.Tab.1.left" timestamp="1579086728575">
+    <state width="1398" height="274" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1579166159344" />
+    <state width="1398" height="274" key="GridCell.Tab.1.left" timestamp="1579166159344">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="274" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1579086728575" />
-    <state width="1398" height="274" key="GridCell.Tab.1.right" timestamp="1579086728576">
+    <state width="1398" height="274" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1579166159344" />
+    <state width="1398" height="274" key="GridCell.Tab.1.right" timestamp="1579166159345">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="274" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1579086728576" />
+    <state width="1398" height="274" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1579166159345" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1579154751828">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1579154751828" />
   </component>
 </project>

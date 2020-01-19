@@ -8,6 +8,10 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main_3 {
+    /**
+     * Отрисовывает узор "пирамидка" из числа пользователя
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         try {

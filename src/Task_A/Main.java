@@ -4,7 +4,11 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
-
+    /**
+     * Принимает на ввод через System.in количество секунд
+     * и выводит оценку, в зависимости от количества секунд
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double time;

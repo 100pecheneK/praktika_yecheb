@@ -34,7 +34,5 @@ public class Main {
             System.out.println("Ошибка! Введён неподдерживаемый символ или превышен размер числа!");
             main(args);
         }
-
-
     }
 }

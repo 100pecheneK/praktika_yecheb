@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="693af8c3-20d9-4404-86b5-e4bfc47308f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_A/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_A/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_B/Main_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_B/Main_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_B/Main_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_B/Main_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_C/Main_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_C/Main_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_C/Main_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_C/Main_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_C/Main_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_C/Main_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,6 +153,8 @@
       <workItem from="1579082757458" duration="3963000" />
       <workItem from="1579154663441" duration="8441000" />
       <workItem from="1579414077139" duration="357000" />
+      <workItem from="1580192695822" duration="446000" />
+      <workItem from="1580198538899" duration="1000" />
     </task>
     <servers />
   </component>

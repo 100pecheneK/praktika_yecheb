@@ -47,7 +47,6 @@ public class Main_3 {
                 // Отрисовка внешнего слоя справа
                 System.out.print(num);
                 System.out.print(" ");
-
                 System.out.println();
                 row++;
             }

@@ -21,7 +21,6 @@ public class Main_1 {
 
         System.out.println(isPalindrome ? userNumber + " - полиндром " : userNumber + " - не полиндром");
     }
-
     /**
      * Возвращает число пользователя
      * @return int
@@ -36,7 +35,6 @@ public class Main_1 {
             return getUserNumber();
         }
     }
-
     /**
      * Принимает число, которое надо перевернуть
      * @param number
@@ -51,7 +49,6 @@ public class Main_1 {
         } while (number != 0);
         return reverseNumber;
     }
-
     /**
      * Проверяет число на полиндромность
      * @param leftNumberHalf

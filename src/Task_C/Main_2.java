@@ -10,7 +10,6 @@ import java.util.Scanner;
 public class Main_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         try {
             System.out.print("Ваше число: ");
             int num = scanner.nextInt();
@@ -52,7 +51,6 @@ public class Main_2 {
                 // Отрисовка внешнего слоя справа
                 System.out.print(num);
                 System.out.print(" ");
-
                 System.out.println();
                 row++;
                 i++;

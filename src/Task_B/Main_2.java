@@ -17,8 +17,6 @@ public class Main_2 {
 
         System.out.println(isPalindrome ? userNumber + " - полиндром " : userNumber + " - не полиндром");
     }
-
-
     public static int getUserNumber() {
         Scanner scanner = new Scanner(System.in);
         try {
@@ -29,7 +27,6 @@ public class Main_2 {
             return getUserNumber();
         }
     }
-
     private static int getReverseNumber(int number) {
         int reverseNumber = 0;
         while (number != 0) {
@@ -39,7 +36,6 @@ public class Main_2 {
         }
         return reverseNumber;
     }
-
     public static boolean isPalindrome(int leftNumberHalf, int rightNumberHalf) {
         return leftNumberHalf == rightNumberHalf;
     }
